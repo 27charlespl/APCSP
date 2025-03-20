@@ -1,0 +1,49 @@
+/* ChatGPT assisted in writing the following code*/
+.heading {
+  padding: 60px;
+  font-size: 30px; /* Increase font size for more emphasis */
+  text-align: center;
+  background: linear-gradient(135deg, #32CD32, #228B22); /* Gradient background */
+  color: white; /* Ensure text stands out */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+  transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.heading:hover {
+  transform: scale(1.05); /* Slight zoom on hover */
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
+}
+
+.section {
+  background-color: #E9E2FA;
+  padding: 30px;
+  margin-top: 30px;
+  border-radius: 8px; /* Rounded corners for section */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05); /* Soft shadow for section */
+  transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+/* Add hover effect for the section */
+.section:hover {
+  transform: translateY(-5px); /* Slight lift on hover */
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.1); /* Bigger shadow on hover */
+}
+
+/* Styling for the Book section with a more vibrant color */
+.book {
+  background-color: #FFCC00; /* Bright yellow background */
+  padding: 25px;
+  margin-top: 30px;
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.05); /* Soft shadow */
+  transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+/* Hover effect for the book section */
+.book:hover {
+  background-color: #FFB800; /* Slight color change on hover */
+  transform: translateY(-5px); /* Lift on hover */
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.1); /* Shadow for depth */
+}
+/* ChatGPT assisted code end */
